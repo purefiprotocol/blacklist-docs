@@ -1,4 +1,4 @@
-# AMLBot / PureFi blockchain address blacklist
+# PureFi blockchain address blacklist
 
 This blacklist is regularly maintained and updated by internal company staff from different sources, including automated scam detection systems. 
 
@@ -6,10 +6,8 @@ Live documentation and playground:
 
 https://blacklist.purefi.io/swagger-ui/index.html#/BlackList
 
-https://blacklist.amlbot.com/swagger-ui/index.html#/BlackList
-
 # Access
-API Key is required to access blacklist. Please contact kyc@amlbot.com
+API Key is required to access blacklist. Please contact info@purefi.io
 
 # Fields description
   ```
